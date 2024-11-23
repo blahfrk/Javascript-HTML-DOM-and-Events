@@ -1,0 +1,55 @@
+
+body {
+    background-color: #1e1e2f;
+    color: #d3d3e7;
+}
+
+.container {
+    background-color: #2a2a47;
+    color: #d3d3e7;
+}
+
+.form-control {
+    background-color: #252538;
+    color: #ffffff;
+    border-color: #4a4a71;
+}
+
+.btn-add-task {
+    background-color: #4a4a71;
+    color: #ffffff;
+}
+
+.btn-add-task:hover {
+    background-color: #5a5a8a;
+}
+
+.btn-delete {
+    background-color: #7d3f51;
+    color: #ffffff;
+}
+
+.btn-delete:hover {
+    background-color: #a64d67;
+}
+
+.btn-mark {
+    background-color: #2a2a47;
+    color: #d3d3e7;
+}
+
+.btn-mark:hover {
+    background-color: #3a3a5a;
+}
+
+#taskArea p {
+    color: #b3b3d9;
+}
+
+.task-item span {
+    color: #e6e6ff;
+}
+
+footer {
+    color: #7c7c9f;
+}
